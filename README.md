@@ -1,29 +1,24 @@
 # Hi there, I'm Quyen! 👋
 
 ### 🌱 About Me
-I'm a [Your Role, e.g., Software Engineer] passionate about [Your Interest, e.g., AI, Open Source]. I love building [type of projects] and am currently working on [current project or area of focus].
+I'm a Coder passionate about AI, Web, etc and am currently learning on UET_VNU.
 
-- 🔭 I’m currently working on: [Project Name]
-- 🌱 I’m learning: [Technology/Skill]
-- 👯 I’m looking to collaborate on: [Type of Collaboration]
+- 🌱 I’m learning: AI.
 - 💬 Ask me about: [Topics you're knowledgeable about]
-- 📫 How to reach me: [Email/LinkedIn]
+- 📫 How to reach me: [Email]
 
 ### 🚀 Skills
 - **Languages**: Python, JavaScript, etc.
-- **Frameworks**: Django, React, etc.
+- **Frameworks**: Django, Flast, React, etc.
 - **Tools**: Docker, Git, etc.
-
-### 🛠️ Projects
-1. **[Project Name]**: Short description ([Link to the repository](repository-url))
-2. **[Project Name]**: Short description ([Link to the repository](repository-url))
 
 ### 📊 GitHub Stats
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
 
 ### ✨ Fun Facts
-- I love [playing volleyball].
+- I love playing volleyball.
+- I like listening music.
 
   
 ### 📫 Let's Connect!
