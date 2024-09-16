@@ -4,8 +4,7 @@
 I'm a Coder passionate about AI, Web, etc and am currently learning on UET_VNU.
 
 - 🌱 I’m learning: AI.
-- 💬 Ask me about: [Topics you're knowledgeable about]
-- 📫 How to reach me: [Email]
+- 📫 How to reach me: [Email](quyencanh203@gmail.com), [Facebook](), ...
 
 ### 🚀 Skills
 - **Languages**: Python, JavaScript, etc.
@@ -14,7 +13,7 @@ I'm a Coder passionate about AI, Web, etc and am currently learning on UET_VNU.
 
 ### 📊 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![QuyenC03's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
 
 ### ✨ Fun Facts
 - I love playing volleyball.
