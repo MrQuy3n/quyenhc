@@ -4,7 +4,7 @@
 I'm a Coder passionate about AI, Web, etc and am currently learning on UET_VNU.
 
 - 🌱 I’m learning: AI.
-- 📫 How to reach me: [Email](quyencanh203@gmail.com), [Facebook](), ...
+- 📫 How to reach me: [Email](), [Facebook](), ...
 
 ### 🚀 Skills
 - **Languages**: Python, JavaScript, etc.
@@ -21,5 +21,6 @@ I'm a Coder passionate about AI, Web, etc and am currently learning on UET_VNU.
 
   
 ### 📫 Let's Connect!
-- [Email](quyencanh203@gmail.com)
+- [quyencanh203@gmail.com](https://mail.google.com/mail/u/0/#inbox)
+- [Facebook]()
 
