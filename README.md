@@ -13,7 +13,7 @@ I'm a Coder passionate about AI, Web, etc and am currently learning on UET_VNU.
 
 ### 📊 GitHub Stats
 
-![QuyenC03's GitHub stats](https://github-readme-stats.vercel.app/api?username=quyenhc&show_icons=true&theme=radical)
+![quyenhc's GitHub stats](https://github-readme-stats.vercel.app/api?username=quyenhc&show_icons=true&theme=radical)
 
 ### ✨ Fun Facts
 - I love playing volleyball.
